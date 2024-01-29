@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="24ef768d-cec4-47bc-a650-f7a7276d1879" name="Changes" comment="Se genera la estructura básica Maven del repositorio.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EjercicioCatorce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EjercicioCinco.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EjercicioCuatro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EjercicioDiez.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EjercicioDoce.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EjercicioDos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EjercicioNueve.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EjercicioSiete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EjercicioTrece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EjercicioTres.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EjercicioUno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Menu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EjercicioDosTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EjercicioTresTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/EjercicioUnoTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/edu/upvictoria/fpoo/MenuTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/EjercicioQuince.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Menu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/upvictoria/fpoo/Menu.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +97,7 @@
       <workItem from="1706211370549" duration="8157000" />
       <workItem from="1706465143525" duration="26923000" />
       <workItem from="1706505887132" duration="5000" />
+      <workItem from="1706506383219" duration="1251000" />
     </task>
     <task id="LOCAL-00001" summary="Se genera la estructura básica Maven del repositorio.">
       <created>1685065857556</created>

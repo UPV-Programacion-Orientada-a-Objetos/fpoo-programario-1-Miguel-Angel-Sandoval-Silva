@@ -103,6 +103,10 @@ public class Menu {
                     EjercicioCatorce ejercicioCatorce = new EjercicioCatorce();
                     ejercicioCatorce.Ejercicio14();
                     break;
+                case 15:
+                    EjercicioQuince ejercicioQuince = new EjercicioQuince();
+                    ejercicioQuince.Ejercicio15();
+                    break;
                 case 27:
                     System.out.println("Vuelva pronto!!!");
                     break;
